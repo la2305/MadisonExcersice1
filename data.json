@@ -1,0 +1,56 @@
+[
+    {   
+        "portfolio": "DESIGN",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--yellow-color)"
+    },
+    {   
+        "portfolio": "DESIGN",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--yellow-color)"
+    },
+    {   
+        "portfolio": "DESIGN",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--yellow-color)"
+    },
+    {   
+        "portfolio": "DEVELOPMENT",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--primary-color)"
+    },
+    {   
+        "portfolio": "DEVELOPMENT",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--primary-color)"
+    },
+    {   
+        "portfolio": "DEVELOPMENT",
+        "description": "CREATIVE TEMPLATE",
+        "content": "./exsercise1__htmlcss/img/3.png",
+        "color":"var(--primary-color)"
+    },
+    {   
+        "portfolio": "BRANDING",
+        "description": "AMAZING STARTUP",
+        "content": "./exsercise1__htmlcss/img/4.png",
+        "color":"var(--green-color)"
+    },
+    {   
+        "portfolio": "PRODUCTS",
+        "description": "AMAZING STARTUP",
+        "content": "./exsercise1__htmlcss/img/4.png",
+        "color":"var(--blue-color)"
+    },
+    {   
+        "portfolio": "PRODUCTS",
+        "description": "AMAZING STARTUP",
+        "content": "./exsercise1__htmlcss/img/4.png",
+        "color":"var(--blue-color)"
+    }
+]

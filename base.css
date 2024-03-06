@@ -1,0 +1,38 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --primary-color: #ff564f;
+  --yellow-color: #f8e71c;
+  --purple-color: #9013fe;
+  --green-color: #417505;
+  --blue-color: blue;
+  --height-nav-first-page: 64px;
+}
+
+/* reset css */
+* {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.app {
+  overflow-x: hidden;
+}
+section {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
