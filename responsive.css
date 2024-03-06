@@ -357,6 +357,13 @@
     display: inline-block;
     margin-top: 60px;
   }
+  .six-page__blog-container-transition {
+    transition: unset;
+    height: unset;
+  }
+  .six-page__blog-container-transition:hover {
+    transform: unset;
+  }
   /* seven page */
   .seven-page {
     height: unset;
@@ -747,6 +754,13 @@
     display: inline-block;
     margin-top: 60px;
     width: 100%;
+  }
+  .six-page__blog-container-transition {
+    transition: unset;
+    height: unset;
+  }
+  .six-page__blog-container-transition:hover {
+    transform: unset;
   }
   /* seven page */
   .seven-page {

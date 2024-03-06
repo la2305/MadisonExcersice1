@@ -418,8 +418,8 @@
 }
 .slick-dots button {
   font-size: 0;
-  width: 6px;
-  height: 6px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
   background-color: #595959;
   border: none;
@@ -509,6 +509,15 @@
   height: 416px;
   background-color: var(--yellow-color);
   margin-top: 47px;
+  animation: fade-in 1s ease;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 .four-page__body-panner-design-tag {
   position: absolute;
@@ -739,6 +748,13 @@
 }
 .six-page__blog-container {
   text-decoration: none;
+}
+.six-page__blog-container-transition {
+  transition: transform 0.3s ease;
+  height: 520px;
+}
+.six-page__blog-container-transition:hover {
+  transform: translateY(-10px);
 }
 .six-page__blog-img {
   width: 100%;
