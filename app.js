@@ -52,7 +52,6 @@ document.addEventListener('DOMContentLoaded', function() {
         firstPageSlides[index].style.display = 'block';
         isFirstPageShowSlide = false;
       } else {
-        
         firstPageSlides[index].style.display = 'block';
         firstPageSlides[index].style.animation = 'fadeInAnimation 2s linear';
       }
